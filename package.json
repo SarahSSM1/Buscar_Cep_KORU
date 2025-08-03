@@ -1,0 +1,22 @@
+{
+  "name": "buscarcep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cep.js",
+  "type": "module",
+  "bin": {
+    "buscacep": "./cep.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "chalk": "^5.4.1"
+  }
+}
